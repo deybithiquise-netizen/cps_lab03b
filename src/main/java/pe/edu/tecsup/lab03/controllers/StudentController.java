@@ -1,5 +1,5 @@
 package pe.edu.tecsup.lab03.controllers;
 
 public class StudentController {
-    //clase creada
+    //clase modificada sprint-2
 }
